@@ -53,6 +53,7 @@ int Rectangle::perimeter()
 
 Rectangle::~Rectangle()
 {
+    cout<<"Constructor is deleted"<<endl;
 
 }
 
